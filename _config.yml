@@ -27,6 +27,8 @@ url: "https://gohngeejuay.github.io" # the base hostname & protocol for your sit
 twitter_username: GJuay
 github_username:  GohNgeeJuay
 
+author: Goh Ngee Juay
+
 # Build settings
 theme: minima
 plugins:
